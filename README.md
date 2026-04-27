@@ -22,3 +22,6 @@ This project simulates a real-world clinic management system and focuses on back
 ```bash
 npm install
 npm run start
+
+## 🚧 Project Status
+In progress
